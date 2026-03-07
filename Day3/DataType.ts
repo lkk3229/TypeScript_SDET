@@ -11,7 +11,7 @@
 - void
 - Union type
 
-2. Non-Primitive Data Types(Object Data Types) - Store multiple values
+2. Non-Premitive Data Types(Object Data Types) - Store multiple values
 - Array
 - class
 - Function
