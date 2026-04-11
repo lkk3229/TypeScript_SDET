@@ -1,6 +1,6 @@
 // ========= forEach(), map(), filter(), some(), every() ==========
 
-// 1. forEach() => Execute s afunction once for each array element
+// 1. forEach() => Executes a function once for each array element
 // It takes function as a parameter
 
 // Syntax: array.forEach(callback(currentValue, index, array){});

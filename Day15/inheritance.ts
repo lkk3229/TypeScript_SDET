@@ -4,7 +4,7 @@
 //  Inheritance promotes code reusability and establishes a natural hierarchical relationship between classes.
 
 // Method Overriding:
-// A subclass cna provide a specific implementation of a method that is already defined in its superclass.
+// A subclass can provide a specific implementation of a method that is already defined in its superclass.
 // The method must have the same name, return type, and parameters.
 
 

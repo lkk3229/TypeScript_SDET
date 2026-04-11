@@ -3,7 +3,7 @@
 /*
 Lamda refers to anonymous functions in programming.
 Lamda functions are a consise mechnism to represent anonymous functions.
-These functions are alos called as Arrow functions because of the use of "=>" syntax.
+These functions are also called as Arrow functions because of the use of "=>" syntax.
 
 Arrow functions, also known as lambda functions, are a concise way to write functions in TypeScript.
 They are often used for short, single-expression functions and can help improve readability.
